@@ -1,2 +1,6 @@
 git diff, despues de git add -A / No manda diferencias, es con git diff --staged / git reset HEAD arch.*, para sacar archivo del Staged area / git checkout -- arch.*, para revertir todo cambio
+git status -s
+git diff --staged. Compara cambios en archivos agregados al Stage.
+git reset HEAD "archivo.ext" Regresa el archivo indicado, agregado al Stage, al áres de trabajo.
+git checkout -- "archivo.ext" Revierte cambios realizados al archivo indicado.
 git commit --amend -m "Nuevo mensaje", arreglar el mensaje del comit / Falto algo
