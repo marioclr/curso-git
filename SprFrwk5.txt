@@ -1,0 +1,5 @@
+Instalación del Spring ToolSuite IDE. Habla de Instalar una dependencia llamada DevTools, para actualización automatica.
+Creando el controlador y la vista. Ctrl + Space, importa los paquetes de las clases.
+	Un controlador va a tener métodos de acción o handler. Cada método representa una página web.
+Anotación PathVariable. Es similar al RequestParam.
+Inyección  vía constructor y setters. Si no se pone anotación en el constructor, se maneja de manera implicita.

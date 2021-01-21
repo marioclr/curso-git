@@ -1,0 +1,2 @@
+git diff, despues de git add -A / No manda diferencias, es con git diff --staged / git reset HEAD arch.*, para sacar archivo del Staged area / git checkout -- arch.*, para revertir todo cambio
+git commit --amend -m "Nuevo mensaje", arreglar el mensaje del comit / Falto algo

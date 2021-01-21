@@ -1,0 +1,9 @@
+Arquitectura Java
+- POO
+  - Al crear proyecto se indica version de jre ¿? Hay que picarle ahí.
+  - Menú Windows - Show view - Navigator (En esta vista se pueden ver los archivos .class).
+  - syso + Ctrl + space; Ctrl + Alt+ Flecha abajo; Ctrl + Shift + L (ver shortcuts);
+  - Delegación de constructores con this.
+  - Overriding. Sobrecarga de métodos.
+  - Btn. Der + Refactor + Pull Up
+
