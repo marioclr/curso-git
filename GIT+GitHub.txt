@@ -3,4 +3,14 @@ git status -s
 git diff --staged. Compara cambios en archivos agregados al Stage.
 git reset HEAD "archivo.ext" Regresa el archivo indicado, agregado al Stage, al áres de trabajo.
 git checkout -- "archivo.ext" Revierte cambios realizados al archivo indicado.
-git commit --amend -m "Nuevo mensaje", arreglar el mensaje del comit / Falto algo
+git commit --amend -m "Nuevo mensaje", arreglar el mensaje del commit.
+Si después de arreglar el mensaje del commit me doy cuenta que falto incluir algo en algún archivo:
+- git reset --soft HEAD^ (mueve al comit previo, sin modificar área de trabajo)
+- Agrego los cambios al archivo y commit -am "Mensaje..."
+
+Nota: Para realizar simulaciones de trabajo colaborativo, cree Repo en GitHub para subir este proyecto e interactuar con diferentes cuentas, el 22/01/2021.
+
+git remote add origin https://github.com/marioclr/curso-git.git
+git branch -M main
+git push -u origin master
+
