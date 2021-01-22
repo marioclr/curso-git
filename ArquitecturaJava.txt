@@ -5,5 +5,6 @@ Arquitectura Java
   - syso + Ctrl + space; Ctrl + Alt+ Flecha abajo; Ctrl + Shift + L (ver shortcuts);
   - Delegación de constructores con this.
   - Overriding. Sobrecarga de métodos.
-  - Btn. Der + Refactor + Pull Up
-
+  - Btn. Der + Refactor + Pull Up. Sube un método en la jerarquia de clases.
+  - En Clase, Btn. Der + Refactor + Extract Superclass
+  - En Clase, Btn. Der + Refactor + Extract Interface
