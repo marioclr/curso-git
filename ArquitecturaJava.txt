@@ -8,3 +8,8 @@ Arquitectura Java
   - Btn. Der + Refactor + Pull Up. Sube un método en la jerarquia de clases.
   - En Clase, Btn. Der + Refactor + Extract Superclass
   - En Clase, Btn. Der + Refactor + Extract Interface
+
+- Spring Framework
+  - Patrón de diseño Factory. Para encapsular los tipos de Clases.
+  - Maven.
+  - La composición se implementa con Ref en el archivo Application Context
